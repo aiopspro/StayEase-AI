@@ -350,7 +350,7 @@ Access at:
 
 ---
 
-## Hackathon Judging Notes
+## Notes
 
 ### Problem Solved
 Legacy hotel booking systems rely on rigid keyword search — users must know exact room names or filter categories. This project replaces that with natural language understanding and semantic search.
