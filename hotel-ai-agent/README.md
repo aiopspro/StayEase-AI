@@ -363,7 +363,7 @@ Legacy hotel booking systems rely on rigid keyword search — users must know ex
 4. **Zero hallucination guardrail** — Claude is explicitly instructed to use only the retrieved room data, preventing made-up hotel details
 5. **Production-ready structure** — Separated services, agents, API, and UI layers; environment-based config; input validation; graceful error messages
 
-### Flow a Judge Can Follow
+### Flow Can Follow
 ```
 User types → Bedrock classifies intent → Agent executes →
 (for recommendations) VoyageAI embeds → MongoDB vector match →
