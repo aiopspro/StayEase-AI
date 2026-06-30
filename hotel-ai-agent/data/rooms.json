@@ -1,0 +1,22 @@
+[
+  {"room_id": "R001", "hotel_name": "Sea View Resort", "city": "Goa", "room_type": "Deluxe", "price": 80, "amenities": ["wifi", "pool", "breakfast"]},
+  {"room_id": "R002", "hotel_name": "Beach Paradise Hotel", "city": "Goa", "room_type": "Suite", "price": 150, "amenities": ["wifi", "pool", "spa", "breakfast", "gym"]},
+  {"room_id": "R003", "hotel_name": "Sunrise Inn", "city": "Goa", "room_type": "Standard", "price": 40, "amenities": ["wifi", "breakfast"]},
+  {"room_id": "R004", "hotel_name": "Coastal Budget Stay", "city": "Goa", "room_type": "Budget", "price": 25, "amenities": ["wifi"]},
+  {"room_id": "R005", "hotel_name": "Goa Grand Hotel", "city": "Goa", "room_type": "Deluxe", "price": 95, "amenities": ["wifi", "pool", "gym", "restaurant"]},
+  {"room_id": "R006", "hotel_name": "Snow Peak Resort", "city": "Manali", "room_type": "Deluxe", "price": 70, "amenities": ["wifi", "fireplace", "breakfast", "mountain-view"]},
+  {"room_id": "R007", "hotel_name": "Himalayan Suites", "city": "Manali", "room_type": "Suite", "price": 130, "amenities": ["wifi", "spa", "fireplace", "breakfast", "gym"]},
+  {"room_id": "R008", "hotel_name": "Valley View Inn", "city": "Manali", "room_type": "Standard", "price": 45, "amenities": ["wifi", "breakfast", "mountain-view"]},
+  {"room_id": "R009", "hotel_name": "Alpine Budget Lodge", "city": "Manali", "room_type": "Budget", "price": 20, "amenities": ["wifi"]},
+  {"room_id": "R010", "hotel_name": "Snowflake Hotel", "city": "Manali", "room_type": "Deluxe", "price": 85, "amenities": ["wifi", "fireplace", "pool", "restaurant"]},
+  {"room_id": "R011", "hotel_name": "Marine Drive Hotel", "city": "Mumbai", "room_type": "Suite", "price": 200, "amenities": ["wifi", "pool", "spa", "gym", "restaurant", "sea-view"]},
+  {"room_id": "R012", "hotel_name": "Gateway Business Hotel", "city": "Mumbai", "room_type": "Deluxe", "price": 110, "amenities": ["wifi", "gym", "restaurant", "conference-room"]},
+  {"room_id": "R013", "hotel_name": "Mumbai Central Inn", "city": "Mumbai", "room_type": "Standard", "price": 55, "amenities": ["wifi", "breakfast"]},
+  {"room_id": "R014", "hotel_name": "Budget Stay Mumbai", "city": "Mumbai", "room_type": "Budget", "price": 30, "amenities": ["wifi"]},
+  {"room_id": "R015", "hotel_name": "Harbour View Residency", "city": "Mumbai", "room_type": "Deluxe", "price": 120, "amenities": ["wifi", "pool", "gym", "sea-view", "restaurant"]},
+  {"room_id": "R016", "hotel_name": "Silicon Valley Hotel", "city": "Bangalore", "room_type": "Suite", "price": 180, "amenities": ["wifi", "pool", "spa", "gym", "restaurant", "conference-room"]},
+  {"room_id": "R017", "hotel_name": "Tech Park Suites", "city": "Bangalore", "room_type": "Deluxe", "price": 90, "amenities": ["wifi", "gym", "restaurant", "conference-room"]},
+  {"room_id": "R018", "hotel_name": "Garden City Inn", "city": "Bangalore", "room_type": "Standard", "price": 50, "amenities": ["wifi", "breakfast", "garden-view"]},
+  {"room_id": "R019", "hotel_name": "Startup Budget Lodge", "city": "Bangalore", "room_type": "Budget", "price": 28, "amenities": ["wifi"]},
+  {"room_id": "R020", "hotel_name": "MG Road Grand Hotel", "city": "Bangalore", "room_type": "Deluxe", "price": 100, "amenities": ["wifi", "pool", "gym", "restaurant", "rooftop"]}
+]

@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+streamlit
+pymongo
+boto3
+voyageai
+python-dotenv
+numpy
+requests
+scikit-learn
+pydantic
