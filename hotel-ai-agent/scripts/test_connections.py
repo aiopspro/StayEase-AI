@@ -93,9 +93,9 @@ def test_voyageai():
 
         import voyageai
         vo = voyageai.Client(api_key=api_key)
-        result = vo.embed(["test hotel room"], model="voyage-2", input_type="document")
+        result = vo.embed(["test hotel room"], model="voyage-3", input_type="document")
         dims = len(result.embeddings[0])
-        print(f"Model:        voyage-2")
+        print(f"Model:        voyage-3")
         print(f"Dimensions:   {dims}")
         print("Result:       CONNECTED")
         return True
